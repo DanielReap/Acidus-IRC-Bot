@@ -1,7 +1,7 @@
 #######################
 #       IRC Bot       #
 #     Made by Dan     #
-#   http://topkek.pw  #
+#   essence.network   #
 #######################
 
 import sys, time, socket
